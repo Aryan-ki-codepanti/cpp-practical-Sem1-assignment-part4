@@ -24,9 +24,9 @@ public:
 
     void printBox()
     {
-        cout << "Length : " << length << "units";
-        cout << "Length : " << breadth << "units";
-        cout << "Height: " << height << "units";
+        cout << "Length : " << length << "units" << endl;
+        cout << "Length : " << breadth << "units" << endl;
+        cout << "Height: " << height << "units" << endl;
     }
 
     float surfaceArea()
